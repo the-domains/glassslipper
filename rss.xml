@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[glassslipper]]></title>
-        <description><![CDATA[glassslipper]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Glass Slipper]]></title>
+        <description><![CDATA[Glass Slipper]]></description>
+        <link>https://thegrid.ai/glassslipper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 16:13:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 16:26:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/glassslipper/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>Cinderella's slipper</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/052701d2-bd62-49f9-be81-531eb78a8484.png"></article>]]></description>
+            <link>https://thegrid.ai/glassslipper/introduction/index.html</link>
+            <guid isPermaLink="false">e15515c5-756e-48d1-8f7b-e72e5a5c335e</guid>
+            <pubDate>Fri, 30 Oct 2015 16:26:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introduction]]></title>
             <description><![CDATA[<h1>Introduction</h1>]]></description>
-            <link>undefinedintroduction/index.html</link>
+            <link>https://thegrid.ai/glassslipper/introduction/index.html</link>
             <guid isPermaLink="false">e5bc45bc-7894-4b21-84cc-26f02f29920c</guid>
             <pubDate>Fri, 30 Oct 2015 16:13:04 GMT</pubDate>
         </item>
