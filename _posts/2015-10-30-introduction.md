@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-30T16:13:04.303Z'
-dateModified: '2015-10-30T16:11:59.327Z'
+datePublished: '2015-10-30T16:26:55.298Z'
+dateModified: '2015-10-30T16:26:12.945Z'
 title: Introduction
 authors: []
 publisher:
@@ -21,9 +21,10 @@ url: introduction/index.html
 _type: Article
 
 ---
-**__**
+![Cinderella's slipper](https://the-grid-user-content.s3-us-west-2.amazonaws.com/052701d2-bd62-49f9-be81-531eb78a8484.png)
 
-**_She doesn't need your GLASS Slipper...Help Her Break The Glass Ceiling:  _**Men, prepare your selves., will assist professional women as
+**_What are Men Afraid
+of? _****_._Exposing the male fears of a life with a career woman:**Men, prepare your selves., will assist professional women as
 well as large corporations and more importantly, inform male spouses of the
 unavoidable conclusion that the shift in women breadwinners is here to stay and
 that the numbers are predicted to continue to rise.**_What are Men Afraid of?'_** is what
@@ -69,30 +70,42 @@ of their wives. In Richard Watts' fifth-teen years as a trailing partner, he
 has spoken to countless couples, some currently together and others not, on
 this issue.
 
-* How
+üHow
 did this happen to you;
-* Whether
-or not men are engaging in this opportunity;
-* The
-facts and trends;
-* Identity
-crisis;
-* Relocation
-does not have to mean dislocation;
-* Common
-threads of successful relocations;
-* What
-to do prior to, during, and after the move;
-* The
-concerns of female leading partners;
-* Relocation
-in America and abroad.
 
-is also for those men and women, who find
+üWhether
+or not men are engaging in this opportunity; 
+
+üThe
+facts and trends; 
+
+üIdentity
+crisis; 
+
+üRelocation
+does not have to mean dislocation; 
+
+üCommon
+threads of successful relocations; 
+
+üWhat
+to do prior to, during, and after the move; 
+
+üThe
+concerns of female leading partners; 
+
+üRelocation
+in America and abroad. 
+
+In 2008, Dr. Robert L.
+Smith, a psychotherapist, an expert in stress management, and holds a license
+to practice Marriage and Family Therapy in the State of Indiana stated that,
+"It is as if you were entering an unfamiliar dark room and asked to learn your
+way around."is also for those men and women, who find
 ourselves in this position and may have asked, 'Wouldn't it have been a bit
 easier to know that this set of circumstances were an option for our lives,
 than to find ourselves in this position, without any experiences, or a plan to
-move forward. 
+move forward. **_What are Men Afraid of?'_**'
 
 . **_What
 are Men Afraid of?'_**There was not any advice from mom,
@@ -103,4 +116,3 @@ published research on this new evolutionary male role.
 A close friend very early on asked, "How did
 this happen to you?"This
 author started his career plan and along the way life happened.
-A
