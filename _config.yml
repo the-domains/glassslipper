@@ -1,0 +1,23 @@
+name: glassslipper
+favicon: null
+layout_spectrum: 0.9656489819753915
+typography_spectrum: 0.21386021422222257
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8461195859126747
+  lightness: 0.4407894047908485
+  saturation: 0.1614298210479319
+  rhythmicContrast: 0.8004874880425632
+purpose: []
